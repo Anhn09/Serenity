@@ -1,4 +1,4 @@
-package junit.steps;
+package steps;
 
 public class AddCartSteps {
 
